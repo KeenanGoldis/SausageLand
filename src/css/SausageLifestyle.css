@@ -1,0 +1,10 @@
+.SausageLifestyle {
+  font-size: 30px;
+  background-image: url(../img/oldSmoker.jpg);
+  height: 350px;
+  background-repeat: no-repeat;
+  background-position: top;
+  background-size: cover;
+  color: red;
+  padding-top: 30%;
+}

@@ -1,0 +1,20 @@
+
+.App-header{
+  background-image: url(./img/smokeyD.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 550px;
+  padding: 20px;
+  color: white;
+}
+
+.App-header h1{
+  font-size: 50px;
+  padding-top: 0.5%;
+}
+
+.Sub-App-header{
+  color: white;
+  font-size: 18px;
+}
